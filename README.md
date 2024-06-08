@@ -39,7 +39,7 @@ pip install -r requirements.txt
 - Store the trained model weights.
 8. Evaluate: Evaluate the model's performance using validation and test datasets.
 
-![Classify Pipeline](images/train_tune_pipeline.jpg)
+![Train & Tune Pipeline](images/train_tune_pipeline.jpg)
 
 
 
